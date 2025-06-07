@@ -88,37 +88,14 @@
 - 'ʒe (artističáliʒ tčasty)
 
 
-## Ʒyvnoje:
-
-* človék — human
-* muʒe — man
-* ʒenßa — woman
-
-- kóča — cat
-- dóga — dog
-- svin — pig
-- volk — wolf
-- medjédo — bear
-- lisá — fox
-
-* sama — female animal
-* saméc — male animal
-
-
-## Politíčeskoje:
-
-- kinól — king
-- prezidént — president
-- vojna — war
-- mir ­— peace
-
-
 ## Ródy:
 - muʒoj
 - nejnyj
 - ʒenyj
 
-## Padeʒý j spreʒenja, čísla:
+## Padeʒý j spreʒenja, čísla j sklonenja:
+
+##### $!$ *-y/-i* j *-o/-e/-i/-y* ­— toʒe samoje.
 
 ### Náunty:
 
@@ -129,8 +106,6 @@
 |-e| |II|IV|
 |-o| | |IV|
 |- | |III
-
-*-y/-i* j *-o/-e/-i/-y* ­— toʒe samoje.
 
 #### Edinoje čislo:
 |Padeʒ|I|II|III|IV|le primere|
